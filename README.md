@@ -19,4 +19,5 @@ The Chief Technology Officer (CTO) at Cardekho24 has requested the data science 
 └── README.md                # Project overview and instructions
 ```
 ## Model Working Demo
+![Demo of the App](static/demo.gif)
 
