@@ -5,7 +5,8 @@ The Chief Technology Officer (CTO) at Cardekho24 has requested the data science 
 
 ## Repository Structure
 ```
-├── static/                 
+├── static/
+│   └── demo.css             # GIF of Model working                                   
 │   └── styles.css           # CSS file for styling the web interface
 ├── templates/               
 │   └── index.html           # Main HTML file for the web interface
